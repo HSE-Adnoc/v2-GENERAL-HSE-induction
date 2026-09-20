@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="GENERAL HSE induction" />
+              <option name="title_text" value="GENERAL HSE Induction Policy without restriction" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -49,7 +49,7 @@
       </optiongroup>
       <optiongroup name="menuoptions">
         <options>
-          <option name="flow" value="restricted" />
+          <option name="flow" value="free" />
           <option name="wraplistitems" value="false" />
           <option name="tooltips" value="true" />
           <option name="autocollapse" value="true" />
@@ -62,7 +62,7 @@
           <option name="volume" value="true" />
           <option name="seekbar" value="true">
             <options>
-              <option name="readonly" value="true" />
+              <option name="readonly" value="false" />
               <option name="readonlyOnce" value="false" />
             </options>
           </option>
@@ -91,9 +91,9 @@
         <options>
           <option name="thumbnailEnabled" value="true" />
           <option name="thumbnailFillFrame" value="true" />
-          <option name="thumbnailAltText" value="0_bg.jpg" />
-          <option name="thumbnailDisplayName" value="0_bg.jpg" />
-          <option name="thumbnailUrl" value="story_content/6LRHwJJM2Ar.jpg" />
+          <option name="thumbnailAltText" value="slide.png" />
+          <option name="thumbnailDisplayName" value="slide.png" />
+          <option name="thumbnailUrl" value="story_content/5ZETHttQWSB.png" />
           <option name="thumbnailAltTextEnabled" value="false" />
         </options>
       </optiongroup>
@@ -1692,14 +1692,14 @@
             <slidelink slideid="_player.65qsHT5nsuw.6dNQVmAlg1W" displaytext="Good House-keeping" expand="false" type="slide" translationId="6FZheitu0KL" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6GXYwOIVwn4" displaytext="Workplace advice" expand="true" type="slide" translationId="62GUkbpFe4e">
+        <slidelink slideid="_player.6GXYwOIVwn4" displaytext="Prohibited Items" expand="true" type="slide" translationId="62GUkbpFe4e">
           <links>
-            <slidelink slideid="_player.6GXYwOIVwn4.6nTvYptkhw8" displaytext="Workplace advice" expand="false" type="slide" translationId="68fHlbUpxtx" />
+            <slidelink slideid="_player.6GXYwOIVwn4.6nTvYptkhw8" displaytext="Prohibited Items" expand="false" type="slide" translationId="68fHlbUpxtx" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6HUNu55sKDA" displaytext="Good House-keeping" expand="true" type="slide" translationId="6YnBj3XocsE">
+        <slidelink slideid="_player.6HUNu55sKDA" displaytext="Workplace Advice" expand="true" type="slide" translationId="6YnBj3XocsE">
           <links>
-            <slidelink slideid="_player.6HUNu55sKDA.6nR7rouFyRj" displaytext="Good House-keeping" expand="false" type="slide" translationId="60snjyI3XEt" />
+            <slidelink slideid="_player.6HUNu55sKDA.6nR7rouFyRj" displaytext="Workplace Advice" expand="false" type="slide" translationId="60snjyI3XEt" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6A0Ckm92Z4w" displaytext="Incident Management" expand="true" type="slide" translationId="5ur4mRuVvN1">
